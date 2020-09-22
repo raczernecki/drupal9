@@ -1,5 +1,14 @@
 # Docksal powered Drupal 9
 
+## Docksal info
+
+- Install Docker and [Docksal](https://docs.docksal.io/getting-started/setup/)
+- Start project by running `fin init` command
+
+## Composer info
+
+Use composer inside the root directory (docroot)
+
 ## Features
 
 - Vanilla Drupal 9 with preinstalled admin toolbar and material design theme
